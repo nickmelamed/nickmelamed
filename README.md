@@ -11,7 +11,7 @@ UC Berkeley MIDS
 I build end-to-end AI systems spanning retrieval, multimodal reasoning,
 computer vision, automation, and robotics.
 
-**Reach Me**: [LinkedIn](https://www.linkedin.com/feed/)
+**Reach Me**: [LinkedIn](https://www.linkedin.com/feed/) [Email](mailto:nick@nickmelamed.ai)
 
 
 <!--
