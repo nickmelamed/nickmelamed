@@ -1,4 +1,18 @@
-## Hi there 👋
+# Nick Melamed 
+
+Building AI Systems that reason before they act. 
+
+Data Scientist | AI Engineer | Educator 
+
+UC Berkeley MIDS 
+
+## About Me 
+
+I build end-to-end AI systems spanning retrieval, multimodal reasoning,
+computer vision, automation, and robotics.
+
+**Reach Me**: [LinkedIn](https://www.linkedin.com/feed/)
+
 
 <!--
 **nickmelamed/nickmelamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
