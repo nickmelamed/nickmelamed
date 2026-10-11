@@ -2,13 +2,13 @@
 
 Building AI Systems that reason before they act. 
 
-Data Scientist | AI Engineer | Educator 
+AI Developer and Educator 
 
 UC Berkeley MIDS 
 
 ## About Me 
 
-I build end-to-end AI systems spanning retrieval, multimodal reasoning,
+I build end-to-end AI systems spanning multimodal reasoning,
 computer vision, automation, and robotics.
 
 **Reach Me**: [LinkedIn](https://www.linkedin.com/feed/) [Email](mailto:nick@nickmelamed.ai)
